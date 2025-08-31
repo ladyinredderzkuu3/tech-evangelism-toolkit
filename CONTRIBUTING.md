@@ -1,14 +1,14 @@
-# Mitmachen
+# Contributing
 
-Vielen Dank für dein Interesse am Tech Evangelism Toolkit!
+Thank you for your interest in the Tech Evangelism Toolkit!
 
-## Beitrag leisten
-Um einen Beitrag zu leisten, folge bitte diesen Schritten:
-1. Forke das Repository.
-2. Erstelle einen neuen Branch: `git checkout -b mein-feature`
-3. Nimm deine Änderungen vor und committe sie: `git commit -m 'Mein neues Feature'`
-4. Push den Branch: `git push origin mein-feature`
-5. Öffne einen Pull-Request.
+## How to Contribute
+To contribute, please follow these steps:
+1. Fork the repository.
+2. Create a new branch: `git checkout -b my-feature`
+3. Make your changes and commit them: `git commit -m 'My new feature'`
+4. Push the branch: `git push origin my-feature`
+5. Open a pull request.
 
-## Verhaltenskodex
-Bei der Mitwirkung an diesem Projekt erwarten wir einen respektvollen und konstruktiven Dialog. Bitte halte dich an unseren [Verhaltenskodex](CODE_OF_CONDUCT.md).
+## Code of Conduct
+When participating in this project, we expect respectful and constructive dialogue. Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
